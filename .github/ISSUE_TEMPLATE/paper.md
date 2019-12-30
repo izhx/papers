@@ -12,10 +12,14 @@ assignees: ''
  - Organization: 
 
 ## Common
-### Problem
+### Problem:
 
-### Idea
+### Idea:
 
-### Motivation
+### Motivation:
+
+### Work:
 
 ## Details
+
+## Thoughts
